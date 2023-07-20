@@ -1,7 +1,6 @@
-<h1>Estudo de RESTful API</h1>
+<h1>Desafio Scarf</h1>
 
 <h2>Descrição</h2>
-<p align="center">Desafio Scarf</p>
 
 <p>Esta API possui as funcionalidades de criar um FAQ sobre o autor.</p>
 
