@@ -1,9 +1,9 @@
 <h1>Estudo de RESTful API</h1>
 
 <h2>Descrição</h2>
-<p align="center">Este projeto serve de base de estudo/melhorias na criação de RESTful APIs.</p>
+<p align="center">Desafio Scarf</p>
 
-<p>Esta API possui as funcionalidades de listar 179 moedas conhecidas (papel, metal e cripto), todas com valor referente a US$ 1.00; adicionar moedas (reais ou inventadas) ao banco dedados; deletar moedas do banco de dados; atualizar o valor de uma dada moeda; e fazer conversões monetárias com base nos valores armazenados.</p>
+<p>Esta API possui as funcionalidades de criar um FAQ sobre o autor.</p>
 
 <p align="center">
     <a href="#prerequisites">Pré-requisitos</a> •
@@ -24,12 +24,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Clone este repositório<br/>
 ```bash
-git clone https://github.com/Ccneto/estudo_api.git
+git clone https://github.com/Ccneto/faq_app.git/'
 ```
 
 De <i>pull</i> no Docker da API<br/>
 ```bash
-docker pull carloscn/bravo_challenge:dev
+docker pull carloscn/scarf:dev
 ```
 
 Inicialize o docker<br/>
